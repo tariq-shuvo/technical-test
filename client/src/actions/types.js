@@ -1,0 +1,32 @@
+export const SET_ALERT = 'SET_ALERT'
+export const REMOVE_ALERT = 'REMOVE_ALERT'
+//user auth types 
+export const USER_REGISTER_SUCCESS = 'USER_REGISTER_SUCCESS'
+export const  USER_REGISTER_FAIL = 'USER_REGISTER_FAIL'
+export const  USER_LOADED = 'USER_LOADED'
+export const  USER_AUTH_ERROR = 'USER_AUTH_ERROR'
+export const  USER_LOGIN_SUCCESS = 'USER_LOGIN_SUCCESS'
+export const  USER_LOGIN_FAIL = 'USER_LOGIN_FAIL'
+export const  USER_LOGOUT = 'USER_LOGOUT'
+export const  USER_CLEAR_PROFILE = 'USER_CLEAR_PROFILE'
+export const  USER_ACCOUNT_DELETED = 'USER_ACCOUNT_DELETED'
+
+//admin auth types
+export const  ADMIN_LOADED = 'ADMIN_LOADED'
+export const  ADMIN_AUTH_ERROR = 'ADMIN_AUTH_ERROR'
+export const  ADMIN_LOGIN_SUCCESS = 'ADMIN_LOGIN_SUCCESS'
+export const  ADMIN_LOGIN_FAIL = 'ADMIN_LOGIN_FAIL'
+export const  ADMIN_LOGOUT = 'ADMIN_LOGOUT'
+export const  ADMIN_CLEAR_PROFILE = 'ADMIN_CLEAR_PROFILE'
+export const  ADMIN_ACCOUNT_DELETED = 'ADMIN_ACCOUNT_DELETED'
+
+//food menu items
+export const GET_FOOD_MENU = 'GET_FOOD_MENU'
+export const  ADD_FOOD_MENU = 'ADD_FOOD_MENU'
+export const  UPDATE_FOOD_MENU = 'UPDATE_FOOD_MENU'
+export const  FOOD_MENU_ERROR = 'FOOD_MENU_ERROR'
+
+//orders from user
+export const GET_ORDER = 'GET_ORDER'
+export const  PLACE_ORDER = 'PLACE_ORDER'
+export const  PLACE_ORDER_ERROR = 'PLACE_ORDER_ERROR'

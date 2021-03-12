@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://admin:q1w2e3r4t5@cluster0.idwnl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecrect": "DataTest10043!",
+    "authTokenExpire": 57600,
+    "githubClient": "",
+    "githubSecret": ""
+}
